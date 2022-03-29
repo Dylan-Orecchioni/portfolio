@@ -26,9 +26,9 @@ const Navigation = () => {
                     </NavLink>
                     </li>
                     <li>
-                    <NavLink exact="true" to="/cv" className={(nav) => (nav.isActive ? "navActive" : "")}>
+                    <NavLink exact="true" to="/portfolio" className={(nav) => (nav.isActive ? "navActive" : "")}>
                         <i className='fas fa-images'></i>
-                        <span>CV</span>
+                        <span>PortFolio</span>
                     </NavLink>
                     </li>
                     <li>

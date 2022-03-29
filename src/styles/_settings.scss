@@ -31,6 +31,7 @@ body{
     max-width: 1200px;
     font-family: $font-1;
     color: $black;
+    background-color: rgb(25, 4, 58);
 
 }
 button{
@@ -48,7 +49,7 @@ a:visited {
     color: $black;
 }
 
-.home, .knowledges, .contact, .cv {
+.home, .knowledges, .contact, .portFolio {
     display: flex;
 
     @media screen and (max-width: 850px) {
@@ -56,7 +57,7 @@ a:visited {
     }
 }
 
-.homeContent, .knowledgesContent, .contactContent, .cvContent {
+.homeContent, .knowledgesContent, .contactContent, .portFolioContent {
     margin-left: .4rem;
 
     @media screen and (max-width: 850px) {
