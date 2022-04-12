@@ -30,6 +30,8 @@
       img {
         border-radius: 50%;
         box-shadow: 0 0 0 4px $color-3, 0 0 0 8px $color-4, 0 0 0 12px $color-2;
+        height: 175px;
+        width: 150px;
       }
       h3 {
         font-size: 1.3rem;
@@ -83,7 +85,7 @@
       display: flex;
       width: 264px;
       padding: 0 14px;
-      justify-content: space-between;
+      justify-content: space-around;
 
       li {
         font-size: 1.5rem;
@@ -113,7 +115,7 @@
       text-align: center;
       letter-spacing: 0.1rem;
       font-size: .7rem;
-
+      color: $color-3;
       a, a:visited {
         color: $color-5;
 

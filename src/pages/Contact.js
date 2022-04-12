@@ -43,22 +43,22 @@ const Contact = () => {
                 </div>
                 <div className='socialNetwork'>
                     <ul>
-                        <a href='http://www.google.com' target="_blank" rel='noopener noreferrer'>
+                        <a href='https://www.linkedin.com/in/dylan-orecchioni-d%C3%A9veloppeur-web/' target="_blank" rel='noopener noreferrer'>
                             <h4>Linkedin</h4>
                             <i className='fab fa-linkedin'></i>
                         </a>
-                        <a href='http://www.google.com' target="_blank" rel='noopener noreferrer'>
+                        <a href='https://github.com/Dylan-Orecchioni' target="_blank" rel='noopener noreferrer'>
                             <h4>Github</h4>
                             <i className='fab fa-github'></i>
                         </a>
-                        <a href='http://www.google.com' target="_blank" rel='noopener noreferrer'>
+                        {/* <a href='http://www.google.com' target="_blank" rel='noopener noreferrer'>
                             <h4>Twitter</h4>
                             <i className='fab fa-twitter'></i>
                         </a>
                         <a href='http://www.google.com' target="_blank" rel='noopener noreferrer'>
                             <h4>CodePen</h4>
                             <i className='fab fa-codepen'></i>
-                        </a>
+                        </a> */}
                     </ul>
                 </div>
             </div>
