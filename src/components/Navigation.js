@@ -6,7 +6,11 @@ const Navigation = () => {
         <div className='sidebar'>
             <div className='id'>
                 <div className='idContent'>
+<<<<<<< HEAD
                     <img src='./media/Profil.jpg' alt='profil-pic'></img>
+=======
+                    <img src='./media/profil.png' alt='profil-pic'></img>
+>>>>>>> 349de0eec83a45337d60da21f37c7d704ecb3817
                     <h3>Dylan Orecchioni</h3>
                 </div>
             </div>
@@ -44,21 +48,27 @@ const Navigation = () => {
             <div className='socialNetwork'>
                 <ul>
                     <li>
-                        <a href='https://www.google.com' target="_blank" rel='noreferrer noopener'>
+                        <a href='https://www.linkedin.com/in/dylan-orecchioni-développeur-web' target="_blank" rel='noreferrer noopener'>
                             <i className='fab fa-linkedin'></i>
                         </a>
                     </li>
                     <li>
-                        <a href='https://www.google.com' target="_blank" rel='noreferrer noopener'>
+                        <a href='https://github.com/Dylan-Orecchioni' target="_blank" rel='noreferrer noopener'>
                             <i className='fab fa-github'></i>
                         </a>
                     </li>
+<<<<<<< HEAD
                     {/* <li>
                         <a href='https://www.google.com' target="_blank" rel='noreferrer noopener'>
                             <i className='fab fa-twitter'></i>
+=======
+                    <li>
+                        <a href='#' target="_blank" rel='noreferrer noopener'>
+                            <i className='fab fa-instagram'></i>
+>>>>>>> 349de0eec83a45337d60da21f37c7d704ecb3817
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a href='https://www.google.com' target="_blank" rel='noreferrer noopener'>
                             <i className='fab fa-codepen'></i>
                         </a>
