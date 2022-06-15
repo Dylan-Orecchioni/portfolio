@@ -3,7 +3,7 @@ export const portfolioData = [
     id: 1,
     name: 'dmstore.com',
     languages: ['php/symfony','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    languagesIcons: ['fab fa-symfony','fab fa-css3-alt'],
     source: 'https://dmstore.fr',
     info: 'Ceci est mon premier site web créer lors de ma formation chez Philiance Formation.',
     picture: './media/project1.JPG'
