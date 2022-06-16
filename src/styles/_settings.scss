@@ -4,9 +4,12 @@ $font-1: 'Nova Round', cursive;
 $font-2: 'Dosis', sans-serif;
 $font-3: 'Josefin Sans', serif;
 
-$color-1: #2a1d52;
-$color-2: #6C77F4;
-$color-3: rgb(99, 164, 233);
+// $color-1: #2a1d52;
+$color-1: #585858;
+// $color-2: #6C77F4;
+$color-2: #a6a6aa;
+// $color-3: rgb(99, 164, 233);
+$color-3: rgb(104, 105, 106);
 $color-4: #4FEDD2;
 $color-5: #36D0EA;
 $white: #ddd;
@@ -32,8 +35,8 @@ body {
   font-family: $font-1;
   color: $black;
   // background-color: rgb(42, 27, 115);
-  background-color: rgb(32, 8, 60);
-}
+  //background-color: rgb(32, 8, 60);
+  background-color: #aeabab;}
 button {
   cursor: pointer;
 }

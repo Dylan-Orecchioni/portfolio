@@ -10,7 +10,8 @@ class Languages extends Component {
             {id:4, value: "SQL", xp:0.75}
         ],
         frameworks: [
-            {id:1, value: "React", xp:0.5},
+            {id:1, value: "ReactJS/Native", xp:0.5},
+            {id:1, value: "Symfony", xp:0.5},
             {id:2, value: "Bootstrap", xp:0.9},
             {id:3, value: "Sass", xp:0.65},
             {id:4, value: "Wordpress", xp:0.75}

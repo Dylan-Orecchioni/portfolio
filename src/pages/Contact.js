@@ -13,7 +13,7 @@ const Contact = () => {
                     <ul>
                         <li>
                             <i className='fas fa-map-marker-alt'></i>
-                            <span>Coulommiers</span>
+                            <span>Sablonnières 77510</span>
                         </li>
                         <li>
                             <i className='fas fa-mobile-alt'></i>

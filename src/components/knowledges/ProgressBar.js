@@ -7,7 +7,7 @@ const ProgressBar = (props) => {
         <div className={props.className}>
             <h3>{props.title}</h3>
             <div className='years'>
-                <span>Années d'experiences</span>
+                <span>Compétences</span>
                 <span>50%</span>
                 <span>100%</span>
             </div>

@@ -29,7 +29,7 @@
 
       img {
         border-radius: 50%;
-        box-shadow: 0 0 0 4px $color-3, 0 0 0 8px $color-4, 0 0 0 12px $color-2;
+        box-shadow: 0 0 0 4px $color-3, 0 0 0 8px $color-5, 0 0 0 12px $color-4;
         height: 175px;
         width: 150px;
       }
@@ -115,7 +115,7 @@
       text-align: center;
       letter-spacing: 0.1rem;
       font-size: .7rem;
-      color: $color-3;
+      color: $color-5;
       a, a:visited {
         color: $color-5;
 
